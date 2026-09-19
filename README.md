@@ -1,4 +1,4 @@
-# 🌍 Water Scarcity EDA Analysis
+# Water Scarcity Analytics — Exploratory Analysis
 
 ## 📌 Project Overview
 Water scarcity is becoming one of the most critical global challenges, driven by increasing population, rising demand, and unsustainable groundwater usage.
@@ -106,7 +106,7 @@ This analysis clearly shows:
 ---
 
 ## 📁 Project File
-Notebook: `Water_Scarcity_EDA_Analysis.ipynb`
+Notebook: `water_scarcity_analysis.ipynb`
 
 ---
 
